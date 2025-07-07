@@ -14,6 +14,12 @@
     </properties>
 
     <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>com.applitools</groupId>-->
+<!--            <artifactId>eyes-selenium-java5</artifactId>-->
+<!--            <version>5.80.0</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
